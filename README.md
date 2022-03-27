@@ -1,0 +1,2 @@
+# DeepinChecksumPlugin
+在deepin下实现7zip中显示文件各种校验码的功能
