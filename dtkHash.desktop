@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Icon=deepin-compressor
+Name=dtkHash
+Exec=/home/zhou/.hash/dtkHash %u
+X-DFM-MenuTypes=SingleFile;
